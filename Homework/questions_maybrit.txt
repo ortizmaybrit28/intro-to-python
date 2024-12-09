@@ -1,0 +1,23 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal$
+    pwd shows you what directory you're in (directories are basically folders with stored files.)
+    ls allows you to see the contents of the current directory you're in.
+    cd New/Path helps you to get into a new directory.
+
+2. Do you have pets? What kind?
+    I have a total of 7 pets back home; 4 dogs and 3 birds.
+    2 French Bulldogs (ages 1,4), 1 Chihuahua (age 6), 1 Yorkshire Terrier (age 12), 1 Green-Cheeked Conure (age 1) and 2 Co$
+    French Bulldogs: Nacho and Gordo. Chihuahua: Corry Pandeo. Yorkshire Terrier: Daisy. Green-Cheeked Conure: Pretty Bird. $
+
+3. If you run across an error, what would your first course of action be?
+    My first course of action is to type the pwd command to see which directory I am currently in.
+    Following that, I'd check if I typed out the command correctly and/or used the symbols correctly, and go from there.
+
+4. Funniest thing that happened to you in high school.
+    During my sophomore year (once upon a time when COVID-19 was raging), I accidentally sang the Mr. Postman Vine too loud $
+    And I did not realize that I was not muted, and my teacher proceeded to tell me that I wasn't muted but nice song.
+    Never have I felt so embarrased, and was sent direct messages from my peers, haha.
+
+5. What is a python script? (Keep it simple)
+    A Python script is a file containing Python code that is executed to perform tasks, ran by a command line.
+
+
